@@ -1,4 +1,4 @@
-### Hi 👋, I'm <h4>Lipan Padhan</h4>
+### Hi 👋, I'm <h1>Lipan Padhan</h1>
 
 <!--
 **lipan1437/lipan1437** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
