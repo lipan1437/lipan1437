@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/lipanpadhan3" target="blank"><img src="https://img.shields.io/twitter/follow/lipanpadhan3?logo=twitter&style=for-the-badge" alt="lipanpadhan3" /></a> </p>
 
-- 🔭 I’m currently working on **my portfolio**
+- 🔭 I’m currently working on **My Portfolio**
 
 - 🌱 I’m currently learning **MERN stack at Masai School**
 
