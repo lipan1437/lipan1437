@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **lipanpadhan1432@gmail.com**
 
-- 👨‍💻 My Portfilio [Github.io Link here](https://lipan1437.github.io/)
+- 👨‍💻 My Portfilio [Click here](https://lipan1437.github.io/)
 
 - 👀 My Github Repositories [Click here](https://github.com/lipan1437?tab=repositories)
 
@@ -24,7 +24,7 @@
 
  Portfilio [Click here](https://lipan1437.github.io/)
  
- Linkdin [Click here](linkedin.com/in/lipan-padhan-a0bb381a5)
+ Linkdin [Click here](https://www.linkedin.com/in/lipan-padhan-a0bb381a5/)
  
 <h3 align="left">Languages and Tools:</h3>
 
