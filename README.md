@@ -2,6 +2,10 @@
 <h3 align="center" an aspiring Full Stack MERN Developer from India.</h3>
 <h5> with an aspiration to build new features from ideation to production, implementation of frameworks, and design flows that enable users to have a seamless experience. I take into consideration writing reusable and efficient code. I have been passionately combining good design, technology, and innovation in all my projects.</h5>
 
+<div align="center" >
+ <img src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47otvd44y8sgvg2kpf45n57qoin40culmnqsazqcx7&rid=giphy.gif&ct=g" alt="gif" />
+</div>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lipan1437&label=Profile%20views&color=0e75b6&style=flat" alt="lipan1437" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lipan1437" alt="lipan1437" /></a> </p>
