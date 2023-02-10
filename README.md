@@ -28,7 +28,7 @@
 
  Portfilio [Click here](https://lipan1437.github.io/)
  
- Linkdin [Click here](https://www.linkedin.com/in/lipan-padhan-a0bb381a5/)
+ Linkdin   [Click here](https://www.linkedin.com/in/lipan-padhan-a0bb381a5/)
  
 <h3 align="left">Languages and Tools:</h3>
 
